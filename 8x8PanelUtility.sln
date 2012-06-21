@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8x8PanelAnimatorApp", "8x8PanelAnimatorApp\8x8PanelAnimatorApp.vbproj", "{D9CCCC02-BBBA-483D-9083-81A58670F207}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8x8PanelCharacterApp", "8x8PanelCharacterApp\8x8PanelCharacterApp.vbproj", "{BE0EBC32-75D3-42BD-84CC-33883BA12231}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8x8PanelControlApp", "8x8PanelControlApp\8x8PanelControlApp.vbproj", "{F7C985D7-4556-4A47-A829-D00098866D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9CCCC02-BBBA-483D-9083-81A58670F207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CCCC02-BBBA-483D-9083-81A58670F207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CCCC02-BBBA-483D-9083-81A58670F207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CCCC02-BBBA-483D-9083-81A58670F207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0EBC32-75D3-42BD-84CC-33883BA12231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0EBC32-75D3-42BD-84CC-33883BA12231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0EBC32-75D3-42BD-84CC-33883BA12231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0EBC32-75D3-42BD-84CC-33883BA12231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C985D7-4556-4A47-A829-D00098866D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C985D7-4556-4A47-A829-D00098866D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C985D7-4556-4A47-A829-D00098866D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C985D7-4556-4A47-A829-D00098866D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
