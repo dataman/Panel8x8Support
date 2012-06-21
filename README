@@ -6,3 +6,7 @@ For safetey I'm posting them to Github.
 The main project is actually hosted at http://Panel8x8.GoogleCode.Com
 This is just an archive of the vb.net code,
 The main arduino library is at Googlecode.
+
+I decided to include the Panel8x8Support_V0100.msi file for simpler installs.
+I also included all the library source under Arduino.
+Last Version was Panel8x8_V0109.zip and is expanded under the Arduino\Panel8x8 folder
